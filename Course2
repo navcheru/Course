@@ -7,3 +7,16 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+
+Naveen Cheruku
+Dynamic Programming
+Dynamic Programming (DP) is a problem-solving technique that breaks complex problems into smaller subproblems. 
+It stores solutions to avoid redundant computations, making it efficient. 
+DP is used for tasks like finding Fibonacci numbers, common subsequences, shortest paths, and solving the knapsack problem. 
+It’s a powerful tool for optimization
+
+
+
+
+
